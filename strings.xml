@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Social Media App</string>
+    <string name="main_activity_title">Messages</string>
+    <string name="message_detail_activity_title">Message History</string>
+    <string name="compose_message_activity_title">Compose Message</string>
+    <string name="notification_channel_name">Message Notifications</string>
+    <string name="notification_channel_description">Notifications for new messages</string>
+    <string name="notification_title">New Message</string>
+</resources>

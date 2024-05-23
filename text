@@ -1,0 +1,20 @@
+Java Files
+MainActivity.java
+MessageDetailActivity.java
+ComposeMessageActivity.java
+NotificationService.java
+MessageDatabaseHelper.java
+MessageAdapter.java
+
+XML Layout Files
+res/layout/activity_main.xml
+res/layout/activity_message_detail.xml
+res/layout/activity_compose_message.xml
+res/layout/item_message.xml
+
+Values Files
+res/values/strings.xml
+res/values/colors.xml
+res/values/styles.xml
+Manifest File
+AndroidManifest.xml
